@@ -2,6 +2,26 @@
 
 A modern, production-ready scaffold powered by cutting-edge technologies, designed to accelerate development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
 
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)](https://www.typescriptlang.org)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square)](https://tailwindcss.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)](https://nodejs.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+
+## Table of Contents
+
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Scripts](#scripts)
+- [Project Structure](#project-structure)
+- [Available Features and Components](#available-features-and-components)
+- [Powered by Z.ai](#powered-by-zai)
+- [License](#license)
+
 ## Tech Stack
 
 ### Core Framework
@@ -154,5 +174,8 @@ This scaffold is optimized for use with [Z.ai](https://chat.z.ai) - your AI assi
 
 Ready to build something amazing? Start chatting with Z.ai at [chat.z.ai](https://chat.z.ai) and experience the future of AI-powered development.
 
----
 Built with: Next.js 16 + TypeScript + Tailwind CSS
+
+## License
+
+[MIT](LICENSE)
